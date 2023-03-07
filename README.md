@@ -9,8 +9,8 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-Link of the project <a href="https://cute-daffodil-b262eb.netlify.app/host/vans">CLICK HERE</a>
+Head over to https://vitejs.dev/ to learn more about using vite </br>
+Link of the project <a href="https://cute-daffodil-b262eb.netlify.app/">CLICK HERE</a>
 
 
 
